@@ -1,3 +1,7 @@
+Forked to work with new `scipy`.
+================================
+
+
 About
 =====
 

@@ -22,9 +22,9 @@ setuptools.setup(
     version = '1.0.7',
     description = 'Calculate the sharpness of an image with the CPBD metric',
     long_description = long_description,
-    url = 'https://github.com/0x64746b/python-cpbd',
+    url = 'https://github.com/jdriordan/python-cpbd',
     author = 'D.',
-    author_email = 'dtk@gmx.de',
+    author_email = '',
     license='Other/Proprietary License',
 
     keywords = [
